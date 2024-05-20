@@ -1,0 +1,18 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore specific files
+token.pickle
+credentials.json
+
+# Ignore all files in a directory
+/images/
+
+# Ignore all files in a subdirectory
+logs/
+
+# Ignore all files of a specific type in a directory
+logs/*.log
